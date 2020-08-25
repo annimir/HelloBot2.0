@@ -16,7 +16,7 @@ namespace HelloBot2._0
             CreateHostBuilder(args).Build().Run();
 
 
-            // gjgjg
+            // gjgjgsdsd
         }
 
         public static IHostBuilder CreateHostBuilder(string[] args) =>
